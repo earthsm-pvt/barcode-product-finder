@@ -1,0 +1,1 @@
+{"name":"StockLens Barcode Product Finder","short_name":"StockLens","description":"Scan or search product barcodes.","start_url":"/","display":"standalone","background_color":"#f8f9fc","theme_color":"#5368df","lang":"en","scope":"/","icons":[{"src":"/pwa-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
